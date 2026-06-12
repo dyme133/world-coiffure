@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://worldcoiffure.fr/sitemap.xml
+Sitemap: https://dyme133.github.io/esprit-coiffure-marseille/sitemap.xml
