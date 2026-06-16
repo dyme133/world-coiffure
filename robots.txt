@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://world-coiffure-marseille.fr/sitemap.xml
+Sitemap: https://dyme133.github.io/world-coiffure/sitemap.xml
